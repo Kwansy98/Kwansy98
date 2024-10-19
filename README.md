@@ -1,43 +1,12 @@
 ### <div align="center">I am kwansy98, a windows security research enthusiast.</div>  
+
   
 
-- 🔭 I work at Qianxin(BeiJing) as a software security researcher.  
+- 🔭 I work at Meituan as a c++ programmer.  
   
 
-- 🛠 My job is to develop Windows malware analysis sandbox (edr & anti-virus software background analysis service).  
-  
+- 🛠 I develop malware analysis sandboxes and host-based intrusion detection systems (HIDS/EDR) for my employer. Additionally, I am responsible for malware analysis and reverse engineering.  
 
-- 🌱 I’m currently learning openedr and angr.  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-- Windows kernel driver development.
-- Malware analysis.
-- Game hacking.
-  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
