@@ -1,6 +1,6 @@
 ## kwansy98
 
-Currently a C++ programmer, responsible for developing edr and sandbox.
+Working on game security, with experience in Windows EDR and sandbox systems.
 
 - 🌏 China
 - 📧 kwansy98@gmail.com
